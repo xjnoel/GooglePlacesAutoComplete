@@ -1,0 +1,6 @@
+framework module Pods_GooglePlacesAutoComplete {
+  umbrella header "Pods-GooglePlacesAutoComplete-umbrella.h"
+
+  export *
+  module * { export * }
+}
